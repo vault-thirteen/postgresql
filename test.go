@@ -1,4 +1,4 @@
-// postgresql-test.go.
+// test.go.
 
 // +build test
 
